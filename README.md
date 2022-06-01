@@ -1,10 +1,9 @@
 # Fraud_Detection
-WHAT:
-A project to exemplify my passion and competency for employment.
+PURPOSE: To exemplify my passion and competency for employment.
 
 HMM.ipynb: The python implementation. Currently being updated as of June 1st 2022
 
-azartash.pdf: A powerpoint presentation summarizing work preformed and results.
+azartash_presentation.pdf: A powerpoint presentation summarizing work preformed and results.
 
 HOW TO RUN:
 Python notebook (.ipynb) can easily run without any steps from the user. I reccomend running on google collabotory from google drive for best convenience. 
