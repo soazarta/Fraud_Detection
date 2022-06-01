@@ -11,7 +11,7 @@ Application to generative adversarial environment in which fraudster attempts to
 Demonstrated algorithms such as Boosting, Deep Learning, Decision Trees, GAN, GNN, KNN, Random Forests, SVM
 
 COMPETENCIES:
-    ML Algorithms: Compared the performance of several different algorithms, and explained their behavior in our experiment
+    ML Algorithms: Compared the performance of several different algorithms, and explained their behavior in our experiment </br>
     Experimental Design Controlled for one variable at a time. Used statistical significane testing. Preformed data analytics.
     Data Preprocessing Cleaned, collected and prepared data for ML models.
     Advanced ML ALgorithms Used generative adverserial model
